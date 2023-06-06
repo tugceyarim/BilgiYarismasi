@@ -1,2 +1,2 @@
 # BilgiYarismasi
-HTML, CSS, JS, Json, Fetch API ile oluşturulan skor veren ve kaydeden bilgi yarışması.
+HTML, CSS, JavaScript, Json, Fetch API ile oluşturulan skor veren ve kaydeden bilgi yarışması.
